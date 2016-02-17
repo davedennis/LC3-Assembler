@@ -1,0 +1,4 @@
+		.ORIG x3000
+		PUSH R4
+		.END
+
